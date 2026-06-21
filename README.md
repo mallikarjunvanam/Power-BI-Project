@@ -153,15 +153,15 @@ Analyzes category-level performance and product characteristics.
 
 ### Sales Overview Dashboard
 
-https://github.com/mallikarjunvanam/Power-BI-Project/blob/main/Dashboard%20page1.png
+![Sales Overview Dashboard](https://github.com/mallikarjunvanam/Power-BI-Project/blob/main/Dashboard%20page1.png)
 
 ### Outlet Performance Analysis
 
-[(Add Page 2 Screenshot)](https://github.com/mallikarjunvanam/Power-BI-Project/blob/main/Dashboard%20page%202.png)
+![Outlet Performance Analysis](https://github.com/mallikarjunvanam/Power-BI-Project/blob/main/Dashboard%20page%202.png)
 
 ### Product Performance Analysis
 
-[(Add Page 3 Screenshot)](https://github.com/mallikarjunvanam/Power-BI-Project/blob/main/Dashboard%20page%203.png)
+![Product Performance Analysis](https://github.com/mallikarjunvanam/Power-BI-Project/blob/main/Dashboard%20page%203.png)
 
 ---
 
